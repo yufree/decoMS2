@@ -24,3 +24,54 @@ NAMESPACE	data		man
 ..		.git		NAMESPACE	decoMS2.Rproj
 .Rbuildignore	.gitignore	R		man
 ]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ git ad[Kdd .
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ git commit -m ''a'd'd' 'd'e'c'o'm's'2'
+[master (root-commit) 3196197] add decoms2
+ 23 files changed, 16706 insertions(+)
+ create mode 100644 .Rbuildignore
+ create mode 100644 .Rproj.user/6824DC30/console06/E5F3BA98
+ create mode 100644 .Rproj.user/6824DC30/console06/E5F3BA98.env
+ create mode 100644 .Rproj.user/6824DC30/console06/INDEX001
+ create mode 100644 .Rproj.user/6824DC30/sources/prop/C2CFD4EE
+ create mode 100644 .Rproj.user/6824DC30/sources/prop/INDEX
+ create mode 100644 .Rproj.user/6824DC30/sources/s-8FF1B6D1/54ABE74F
+ create mode 100644 .Rproj.user/6824DC30/sources/s-8FF1B6D1/54ABE74F-contents
+ create mode 100644 .Rproj.user/6824DC30/sources/s-8FF1B6D1/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .gitignore
+ create mode 100644 DESCRIPTION
+ create mode 100644 NAMESPACE
+ create mode 100644 R/functions.r
+ create mode 100644 data/datalist
+ create mode 100755 data/set1_cys.mzML
+ create mode 100644 data/xraw.rda
+ create mode 100644 decoMS2.Rproj
+ create mode 100644 man/decoMS2-package.Rd
+ create mode 100644 man/deconvolveSources.Rd
+ create mode 100644 man/getMS1Mat.Rd
+ create mode 100644 man/getMS2Mat.Rd
+ create mode 100644 man/xraw.Rd
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ git push --set-upd[Kstream origin master
+Enumerating objects: 34, done.
+Counting objects:   2% (1/34)   Counting objects:   5% (2/34)   Counting objects:   8% (3/34)   Counting objects:  11% (4/34)   Counting objects:  14% (5/34)   Counting objects:  17% (6/34)   Counting objects:  20% (7/34)   Counting objects:  23% (8/34)   Counting objects:  26% (9/34)   Counting objects:  29% (10/34)   Counting objects:  32% (11/34)   Counting objects:  35% (12/34)   Counting objects:  38% (13/34)   Counting objects:  41% (14/34)   Counting objects:  44% (15/34)   Counting objects:  47% (16/34)   Counting objects:  50% (17/34)   Counting objects:  52% (18/34)   Counting objects:  55% (19/34)   Counting objects:  58% (20/34)   Counting objects:  61% (21/34)   Counting objects:  64% (22/34)   Counting objects:  67% (23/34)   Counting objects:  70% (24/34)   Counting objects:  73% (25/34)   Counting objects:  76% (26/34)   Counting objects:  79% (27/34)   Counting objects:  82% (28/34)   Counting objects:  85% (29/34)   Counting objects:  88% (30/34)   Counting objects:  91% (31/34)   Counting objects:  94% (32/34)   Counting objects:  97% (33/34)   Counting objects: 100% (34/34)   Counting objects: 100% (34/34), done.
+Delta compression using up to 4 threads
+Compressing objects:   3% (1/26)   Compressing objects:   7% (2/26)   Compressing objects:  11% (3/26)   Compressing objects:  15% (4/26)   Compressing objects:  19% (5/26)   Compressing objects:  23% (6/26)   Compressing objects:  26% (7/26)   Compressing objects:  30% (8/26)   Compressing objects:  34% (9/26)   Compressing objects:  38% (10/26)   Compressing objects:  42% (11/26)   Compressing objects:  46% (12/26)   Compressing objects:  50% (13/26)   Compressing objects:  53% (14/26)   Compressing objects:  57% (15/26)   Compressing objects:  61% (16/26)   Compressing objects:  65% (17/26)   Compressing objects:  69% (18/26)   Compressing objects:  73% (19/26)   Compressing objects:  76% (20/26)   Compressing objects:  80% (21/26)   Compressing objects:  84% (22/26)   Compressing objects:  88% (23/26)   Compressing objects:  92% (24/26)   Compressing objects:  96% (25/26)   Compressing objects: 100% (26/26)   Compressing objects: 100% (26/26), done.
+Writing objects:   2% (1/34)   Writing objects:   5% (2/34)   Writing objects:   8% (3/34)   Writing objects:  11% (4/34)   Writing objects:  14% (5/34)   Writing objects:  17% (6/34)   Writing objects:  20% (7/34)   Writing objects:  23% (8/34)   Writing objects:  26% (9/34)   Writing objects:  29% (10/34)   Writing objects:  32% (11/34)   Writing objects:  35% (12/34)   Writing objects:  38% (13/34)   Writing objects:  41% (14/34)   Writing objects:  44% (15/34)   Writing objects:  47% (16/34)   Writing objects:  50% (17/34)   Writing objects:  52% (18/34)   Writing objects:  55% (19/34)   Writing objects:  58% (20/34)   Writing objects:  61% (21/34)   Writing objects:  64% (22/34)   Writing objects:  67% (23/34)   Writing objects:  70% (24/34)   Writing objects:  73% (25/34)   Writing objects:  76% (26/34)   Writing objects:  79% (27/34), 4.41 MiB | 8.14 MiB/s   Writing objects:  82% (28/34), 4.41 MiB | 8.14 MiB/s   Writing objects:  85% (29/34), 4.41 MiB | 8.14 MiB/s   Writing objects:  88% (30/34), 4.41 MiB | 8.14 MiB/s   Writing objects:  91% (31/34), 4.41 MiB | 8.14 MiB/s   Writing objects:  97% (33/34), 4.41 MiB | 8.14 MiB/s   Writing objects: 100% (34/34), 4.41 MiB | 8.14 MiB/s   Writing objects: 100% (34/34), 5.20 MiB | 6.37 MiB/s, done.
+Total 34 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), done.[K
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:[K
+remote:      https://github.com/yufree/decoMS2/pull/new/master[K
+remote: 
+To github.com:yufree/decoMS2.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ git add .
