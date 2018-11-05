@@ -1,0 +1,13 @@
+Package: decoMS2
+Type: Package
+Title: Deconvolution of heterogeneous MS2 spectra collected for
+        metabolite identification in untargeted metabolomics
+        experiments.
+Version: 1.0
+Date: 2013-02-24
+Author: Igor Nikolskiy
+Maintainer: Igor Nikolskiy <igor.nikolskiy@wustl.edu>
+Description: This package is developed to facilitate identification of metabolites in untargeted metabolomics studies. To do the deconvolution, we require that for every high collision energy scan there is a 0V collision energy scan. Based on the 0V scans we interpolate the abundance of the precursors and deconvolve mixed spectra based on the amounts of each precursor in each scan.
+License: GPL-2
+Depends: nnls
+Packaged: 2013-02-25 16:59:48 UTC; igor

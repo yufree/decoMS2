@@ -1,0 +1,26 @@
+]0;~/Box Sync/rpkg/decoMS2[?1034hpmmb009:decoMS2 yum14$ [Kpmmb009:decoMS2 yum14$ git ini
+git: 'ini' is not a git command. See 'git --help'.
+
+The most similar commands are
+	init
+	gui
+	init-db
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ git init
+Initialized empty Git repository in /Users/yum14/Box Sync/rpkg/decoMS2/.git/
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ git remote add origin git@github.com:yufree/decoMS2.git
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ git add[K[K[K[K[K[K[Kfind . -name .DS_Store -print0 | xargs -0 git rm --ignore-unm atch
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ vim .DS_Store
+[?2004h]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ vim .DS_Store[K[K[K[K[K[K[K[Kgig[Ktignore
+[?2004h]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ ls
+DESCRIPTION	R		decoMS2.Rproj
+NAMESPACE	data		man
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ ls -a
+.		.Rbuildignore	.gitignore	R		man
+..		.Rproj.user	DESCRIPTION	data
+.DS_Store	.git		NAMESPACE	decoMS2.Rproj
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ rm .DS_Store 
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ ;s[K[Kls -a
+.		.Rproj.user	DESCRIPTION	data
+..		.git		NAMESPACE	decoMS2.Rproj
+.Rbuildignore	.gitignore	R		man
+]0;~/Box Sync/rpkg/decoMS2pmmb009:decoMS2 yum14$ git ad[Kdd .
