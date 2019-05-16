@@ -6,7 +6,7 @@
 Experimental data to deconvolve cysteine
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
+Experimental data to deconvolve cysteine
 }
 \usage{data(xraw)}
 \format{
@@ -32,15 +32,6 @@ Formal class 'xcmsRaw' [package "xcms"] with 20 slots
   ..@ msnPrecursorCharge   : int [1:236] 1 1 1 1 1 1 1 1 1 1 ...
   ..@ msnCollisionEnergy   : num [1:236] 20 0 20 0 20 0 20 0 20 0 ...
   ..@ filepath             : chr "../data/aa_deconvolution/shiftingWindows/set1_cys.mzML"
-}
-\details{
-%%  ~~ If necessary, more details than the __description__ above ~~
-}
-\source{
-%%  ~~ reference to a publication or URL from which the data were obtained ~~
-}
-\references{
-%%  ~~ possibly secondary sources and usages ~~
 }
 \examples{
 data(xraw)
